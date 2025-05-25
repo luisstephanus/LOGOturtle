@@ -18,7 +18,7 @@ website:
     left:
       - href: index.qmd
         text: Goal
-      - href: logoturtle.Rmd
+      - href: logoturtle.html
         text: Logo 
 
 format:
